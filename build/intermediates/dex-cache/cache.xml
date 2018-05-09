@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_9c27a4b5e2e8030b7427b83208da4776f5f085b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/4f5d195dec0972e564443cb7fba5a3a3459a5ec8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d026e90923f1f61267cb32bddcbfba51b308b4f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/cf7f9128b8bbc924c5a8be22ec640e9cddea002c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb42ab7215b74a1d549855b28bce3c5c8fc4249b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/203ee94d7f2a67894f168866156e5d63c2f33d7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d8d406291f15b97857889f64255cd657bf8d9f57/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/7bdb44a1f34ccadd9b2658f8af808b1ef6f63f6e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ba18ff413c576f9bd3c16d043ea21e5bda0cd227/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/2d60149ee07796dde12b80ad53276b4d7cd04a13/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6b1512a3008595f695ef468c61f6c8ad032aa96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/8abf4a94d354acaf0f695a595fb879b7b591ae53/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b17c189822094293fe3daef16ad9f9443d2907">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c70f042352662c2e469fae6fcbdd537cd1d7220/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9f96b3bef5fa78b51451bdae6629a4de95d6ed3">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8cb52280ba307b3e5163952a769f60f9616580fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.2.22/57538cc0c8d6f9279d94aa347fb1a90f68592719/aws-android-sdk-ddb-mapper-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="57538cc0c8d6f9279d94aa347fb1a90f68592719">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.2.22_1dbc90398c0d9e5a1866becd2b22018288af0812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/477320f623fb5704e1ccbaa8eb4d1c0f34009415/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfd9a5d2cf57ad74651d769b2efa0d7b4722400c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_966d2d62c4a0141cf0eac02b256ffb92455ab462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/ded8c665d2aeb6aeba4a04ab2e4cd57945bb2f68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="31ead391552fc8d93a7b87b0f15e83755b908904">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a7f3949b87c76dec31f2496135202d1b6dafc162/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/9e6685710554e7727c80f460cac7b0efa0adc27c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0ed7e4740945e30d07c8b57c6c5ef3fe24393f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/ef5fcf110170999222509c23369badd411f39cd5/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e498c906cab9e2432646bb11f1a7247330aa0fd1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.2.22/a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549/aws-android-sdk-ddb-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a1e0dd0d91d40d9e67342d3a8bd26f08edaa3549">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.2.22_1bf6237ebe1cdacca9defc268aacacbf3b9208cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.2.22/9bef9beddb1b7579713905702d8219d516bd3954/aws-android-sdk-cognito-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9bef9beddb1b7579713905702d8219d516bd3954">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.2.22_3297bab8d80b74497e16baacac2f47fe0a13c3c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/ef5fcf110170999222509c23369badd411f39cd5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42201fa63d20d20edccb74c6ac0ffea9e96e6288/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/c7fc3fc646db0e03d52544df1504b08451db52ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="51072d022fa768ee47fd80ba66ef51361b914eee">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e655dc4ac7481c85a29f66f5f4caec1767ed04d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/7bdb44a1f34ccadd9b2658f8af808b1ef6f63f6e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b52763c8bd6f9f99da809dc7b3c3a244e4187028/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aeb11d8ef926bb6a11f8e02adb6c8b1d0a7e98c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/4bcaabdc76171e4d719606a4b629c6d8b32cd964/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_199ed033e2396b7912c3ad678e9d9146ab56ec9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/615e5d4eb2a9af041c9f68bc44d582a7c12a49e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_589f3f4c79cb8497bfc9e7db18ff4e4086732fca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognitoidentityprovider/2.2.22/6ddcf148b81c8a388d17964d78cf3e26f0ae9bc/aws-android-sdk-cognitoidentityprovider-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="06ddcf148b81c8a388d17964d78cf3e26f0ae9bc">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognitoidentityprovider-2.2.22_ade59217af53179fbe16ef04121c41780d3864b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.2.22/40fe82092e0ae3ca549b132a1e7e876807525176/aws-android-sdk-s3-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40fe82092e0ae3ca549b132a1e7e876807525176">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.2.22_6bffdfa33ae7eb5528cf0907bc91808842a0e91d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/203ee94d7f2a67894f168866156e5d63c2f33d7e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_57b91431871734a251a8ab1c540d2ebcde22267b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.google.protobuf.nano/protobuf-javanano/3.0.0-alpha-7/52587934797e3433992a9d69178a1471e4a8f85d/protobuf-javanano-3.0.0-alpha-7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="52587934797e3433992a9d69178a1471e4a8f85d">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/protobuf-javanano-3.0.0-alpha-7_9b35c5745ea3a1f3a00ec227a6f7b0426dec1b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/615e5d4eb2a9af041c9f68bc44d582a7c12a49e4/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e644f0c588cfa2bbe895073bd39bb615826b0c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.2.22/c6789de00db9d1f93faec881fa0c1f5960fb8a15/aws-android-sdk-core-2.2.22.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6789de00db9d1f93faec881fa0c1f5960fb8a15">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.2.22_b34444119c222daf074c54034f6d62bcd806bc47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/cf7f9128b8bbc924c5a8be22ec640e9cddea002c/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2b8a0221d1d95a0c214735c0e124f59c3b2ce5bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/romvictuelles/.android/build-cache/7a6f2665edc3a0cfc3b1dc1b3e0fe2bfd95ab001/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="448cd9e15d90e66e4b1e8e3f02e4c953f44c6f31">
+        <dex dex="/Users/romvictuelles/Desktop/virocore/ARTesla/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_94e7e4c0761632f7f35116aa61106354e15d8697/classes.dex" />
+    </item>
+
+</items>
